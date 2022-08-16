@@ -39,7 +39,7 @@ For this purpose, it was necessary to saw an aluminum L-profile to size and dril
 
 To build this bicycle rack yourself, you need:
 
- * 1x [2m Airline rail glueable](https://www.amazon.de/gp/product/B07SJDD22G/)
+ * 2x [2m Airline rail glueable](https://www.amazon.de/gp/product/B07SJDD22G/)
  * 1x [10x screw fitting 30mm](https://www.amazon.de/gp/product/B07Y5NTNS2/)
  * 10x Stop nuts stainless steel (if not included in the screw fitting)
  * 1x [10x Slot Nut for Airline Rails M6](https://www.amazon.de/gp/product/B08Y5SQM54/)
@@ -66,7 +66,7 @@ In the last step after cleaning, you should degrease the surface.
 Also degrease the adhesive side of the airline rail.
 
 #### Step 4:
-Apply the correct amount of adhesive to the airline rail.
+Apply the correct amount of adhesive to the airline rail and put on the correct position.
 Please refer to the package insert or imprint of your adhesive for the quantity or usage instructions.
 
 #### Step 5:
@@ -77,7 +77,7 @@ This can take 24 hours or up to a week.
 Mount the bike holders on the airline rails.
 
 ### Note:
-Do not worry, if the special construction adhesive is properly applied, holds to the Airlineschine any bike and also much heavier loads.
+Do not worry, if the special construction adhesive is properly applied, it will hold the rails, any bike, and also much heavier loads.
 It is almost impossible to disassemble this rail ever again from the motorhome!
 Please be sure BEFORE that you have the right position and that you want to mount in place.
 
@@ -90,12 +90,12 @@ The bikes are extremely firmly mounted on the stand, nothing wobbles and it hold
 
 Initially, we have the bikes mounted in pairs.
 This is generally the easiest, of course.
-After a short practice, but I can easily mount the bikes alone.
+After a short practice, I can easily mount the bikes alone.
 
 To do this, I roll with the bike on the rear wheel to my camper and operate the rear brake as soon as I am in position.
-Now I grab the bike to lift it and roll it with the front wheel in the rail entlag upwards.
+Now I grab the bike to lift it and roll it with the front wheel in the rail upwards.
 When I reach the desired position, I apply the front brake and hold the bike in position.
-With the other hand, I can now fold up the bracket, readjust it and then roughly turn it closed.
+With the other hand, I can now fold up the bracket, readjust it and then roughly turn it shut.
 Then I fix the wheels with the straps and make sure that the screws are properly tightened.
 
 # License
