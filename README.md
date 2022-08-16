@@ -1,7 +1,7 @@
 
 # Instructions to build a bike rack arranged vertically
 
-<img src="images/finish1.jpg?raw=true" alt="The result with bikes on it" width="50%"><img src="images/finish2.jpg?raw=true" alt="The result with bikes on it" width="50%">
+<img src="images/finish1.jpg?raw=true" alt="The result with bikes on it" width="55%"><img src="images/finish2.jpg?raw=true" alt="The result with bikes on it" width="25%">
 
 ## Why?
 
@@ -33,7 +33,7 @@ For this purpose, it was necessary to saw an aluminum L-profile to size and dril
 
 <img src="images/single1.jpg?raw=true" alt="Picture of a partly build bike rack" width="30%"><img src="images/single2.jpg?raw=true" alt="Picture of a partly build bike rack" width="30%"><img src="images/single3.jpg?raw=true" alt="Picture of a partly build bike rack" width="30%">
 
-<img src="images/final1.jpg?raw=true" alt="Picture of a completely build bike rack" width="30%"><img src="images/final2.jpg?raw=true" alt="Picture of a completely build bike rack" width="30%">
+<img src="images/final1.jpg?raw=true" alt="Picture of a completely build bike rack" width="39%"><img src="images/final2.jpg?raw=true" alt="Picture of a completely build bike rack" width="30%">
 
 
 
