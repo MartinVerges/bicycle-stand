@@ -81,6 +81,23 @@ Do not worry, if the special construction adhesive is properly applied, holds to
 It is almost impossible to disassemble this rail ever again from the motorhome!
 Please be sure BEFORE that you have the right position and that you want to mount in place.
 
+## Field report:
+
+We have the bike holder already for well over 10,000 km in the practical test over hill and dale.
+The bikes are extremely firmly mounted on the stand, nothing wobbles and it holds excellent.
+
+## Bicycle assembly procedure:
+
+Initially, we have the bikes mounted in pairs.
+This is generally the easiest, of course.
+After a short practice, but I can easily mount the bikes alone.
+
+To do this, I roll with the bike on the rear wheel to my camper and operate the rear brake as soon as I am in position.
+Now I grab the bike to lift it and roll it with the front wheel in the rail entlag upwards.
+When I reach the desired position, I apply the front brake and hold the bike in position.
+With the other hand, I can now fold up the bracket, readjust it and then roughly turn it closed.
+Then I fix the wheels with the straps and make sure that the screws are properly tightened.
+
 # License
 
 Vertical bicycle rack (c) by Martin Verges.
